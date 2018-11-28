@@ -1,0 +1,19 @@
+.image {
+    width:100%;
+    height: 350px
+}
+.parent {
+    position: relative;
+}
+#imageSign {
+    position: absolute;
+    bottom: 50px;
+    width: 425px;
+    opacity: 0.6;
+    color: violet;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background: white;
+    text-align: center;
+    font-size: 50px
+}
